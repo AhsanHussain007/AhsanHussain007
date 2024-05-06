@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQ2eWkwMndxZzl0dWRyNXliNmJ4dmNubTNyY213MDIxdHB2NmV6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Ahsan Hussain</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 (img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNjbnF2cDNnZXAzazJwN2pnOTljc3BiNm5zbmlicmpjZGJrcjhzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif")
