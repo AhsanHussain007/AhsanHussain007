@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahsan Hussain</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNjbnF2cDNnZXAzazJwN2pnOTljc3BiNm5zbmlicmpjZGJrcjhzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanhussain007&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanhussain007" /> </p>
 
