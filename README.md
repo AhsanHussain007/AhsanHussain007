@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working as **full-stack developer**
 
-- 💬 Ask me about **java,c++**
+- 💬 Ask me about **java,javascript,react,tailwind,c++,express**
 
 - 📫 How to reach me **ahsanhussainn@gmail.com**
 
