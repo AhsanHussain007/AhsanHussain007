@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **full-stack developement,wordpress develpoment,flutter**
+- 🌱 I’m currently working as **full-stack developer**
 
 - 💬 Ask me about **java,c++**
 
